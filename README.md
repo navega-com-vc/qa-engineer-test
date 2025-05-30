@@ -1,4 +1,4 @@
-# Avaliação Técnica – Perfil QA Pleno
+# Avaliação Técnica
 
 ## Objetivo
 
